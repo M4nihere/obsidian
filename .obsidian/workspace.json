@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "9965196b1dca6c5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5766c66322fb21c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6380b3d4423530",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "468c1f1875a85190",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe910ddb80153146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8748897f3f737d4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "768f59ee10a63bf8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "666c8dbb4cedacee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "286e1a6e43fcff77",
+    "type": "split",
+    "children": [
+      {
+        "id": "d85e1f0d94a772b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685878a7823fa03d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0a07660c46d11576",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "818adf1df3c7a16a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9fed1488e79c5ae7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8748897f3f737d4e",
+  "lastOpenFiles": [
+    "m4nihere.pub",
+    "m4nihere",
+    "Ninehertx/27-Nov-24/Untitled.canvas",
+    "Ninehertx/28-Nov-24/Untitled.md",
+    "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
+    "Ninehertx/28-Nov-24",
+    "Ninehertx/27-Nov-24",
+    "Untitled.canvas",
+    "Untitled.md",
+    "Ninehertx",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
