@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-11-28.md",
+                "file": "2024-11-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-28"
+              "title": "2024-11-29"
             }
           }
         ]
@@ -137,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-11-28.md"
+                "file": "2024-11-29.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-11-28"
+              "title": "Outline of 2024-11-29"
             }
           },
           {
@@ -175,10 +175,11 @@
   },
   "active": "5f6380b3d4423530",
   "lastOpenFiles": [
-    "Tasks.md",
-    "SonarQube on gitlab Projects.md",
-    "2024-11-28.md",
     "Untitled.md",
+    "2024-11-29.md",
+    "Tasks.md",
+    "2024-11-28.md",
+    "SonarQube on gitlab Projects.md",
     "Untitled",
     "Untitled Kanban.md",
     "Ninehertx/Tasks.md",
