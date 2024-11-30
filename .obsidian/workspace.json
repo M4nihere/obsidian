@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
+                "file": "2024-12-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web Socket Proxy Configuration for Apache2"
+              "title": "2024-12-01"
             }
           },
           {
@@ -151,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md"
+                "file": "2024-12-01.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Web Socket Proxy Configuration for Apache2"
+              "title": "Outline of 2024-12-01"
             }
           },
           {
@@ -187,23 +187,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8748897f3f737d4e",
+  "active": "5f6380b3d4423530",
   "lastOpenFiles": [
-    "Ninehertx/28-Nov-24/Untitled.md",
     "2024-11-28.md",
+    "2024-12-01.md",
+    "Untitled/Untitled",
+    "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
+    "Ninehertx/28-Nov-24/Untitled.md",
     "2024-11-29.md",
     "SonarQube on gitlab Projects.md",
     "Tasks.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Untitled",
+    "EveryDay Note",
     "Untitled Kanban.md",
     "Ninehertx/Tasks.md",
     "Tasks",
     "m4nihere.pub",
     "m4nihere",
     "Ninehertx/27-Nov-24/Untitled.canvas",
-    "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
     "Ninehertx/28-Nov-24",
     "Ninehertx/27-Nov-24",
     "Untitled.canvas",
