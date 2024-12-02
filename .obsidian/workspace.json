@@ -166,13 +166,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e8a1a3f0ac4cf858",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f6380b3d4423530",
+  "active": "e8a1a3f0ac4cf858",
   "lastOpenFiles": [
     "2024-12-01.md",
     "2024-12-02.md",
