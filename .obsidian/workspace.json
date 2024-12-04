@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-12-03.md",
+                "file": "Important Key-Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-03"
+              "title": "Important Key-Points"
             }
           },
           {
@@ -125,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-12-03.md",
+                "file": "Important Key-Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-12-03"
+              "title": "Outgoing links from Important Key-Points"
             }
           },
           {
@@ -152,10 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-12-03.md"
+                "file": "Important Key-Points.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-12-03"
+              "title": "Outline of Important Key-Points"
             }
           },
           {
@@ -198,10 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8a1a3f0ac4cf858",
+  "active": "5f6380b3d4423530",
   "lastOpenFiles": [
-    "2024-12-02.md",
+    "Untitled.md",
     "2024-12-03.md",
+    "2024-12-02.md",
     "2024-12-01.md",
     "2024-11-28.md",
     "Untitled/Untitled",
@@ -210,8 +211,7 @@
     "2024-11-29.md",
     "SonarQube on gitlab Projects.md",
     "Tasks.md",
-    "Untitled 1.md",
-    "Untitled.md",
+    "Important Key-Points.md",
     "EveryDay Note",
     "Untitled Kanban.md",
     "Ninehertx/Tasks.md",
