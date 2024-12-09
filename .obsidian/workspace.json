@@ -15,7 +15,7 @@
               "state": {
                 "file": "Important Key-Points.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Important Key-Points"
