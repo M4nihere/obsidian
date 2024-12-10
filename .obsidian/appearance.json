@@ -3,5 +3,6 @@
   "accentColor": "",
   "interfaceFontFamily": "Cascadia Code",
   "textFontFamily": "Cabin",
-  "cssTheme": ""
+  "cssTheme": "Dune",
+  "baseFontSize": 14
 }
