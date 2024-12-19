@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AMan.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AMan"
+              "title": "Untitled"
             }
           },
           {
@@ -167,10 +167,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AMan.md"
+                "file": "Untitled.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AMan"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -215,6 +215,7 @@
   },
   "active": "83d5a4de75f3907b",
   "lastOpenFiles": [
+    "Tasks.md",
     "Untitled.md",
     "AMan.md",
     "Ninehertx/December/Deploying Code From Gitlab to EC2 using AWS CodeDeploy.md",
@@ -223,7 +224,6 @@
     "Ninehertx/December",
     "Important Key-Points.md",
     "SonarQube on gitlab Projects.md",
-    "Tasks.md",
     "2024-12-01.md",
     "2024-12-02.md",
     "2024-12-03.md",
