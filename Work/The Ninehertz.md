@@ -15,6 +15,17 @@
 - **Node VPN Plans Research**
 - **Justivide Machine Troubleshoot**
 - **Dais Development Environment Update**
-- 
+- **Backup Server **
+- **Groovio Uvicorn Research**
 
 ---
+## January 16, 2025
+
+### Tasks Completed
+- **Groovio Celery**
+- **Backup Server**
+- **Groovio celery**
+- **Conservation Login Issue**
+- **Groovio Celery tasks those are internally hit by django API are not running properly**
+-  **Conservation Login Issue >> Account logged in but client gave a new account that is not what we expected**
+- 

@@ -70,8 +70,8 @@
               "type": "markdown",
               "state": {
                 "file": "Work/The Ninehertz.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "The Ninehertz"
