@@ -33,7 +33,9 @@
 ## January 20, 2025
 
 ### Tasks Completed
-- **Backup Server Crashed 
-- **Groovio Pipeline Staging
-- **Groovio Pipeline Development
+- **Backup Server Crashed**
+- **Groovio Pipeline Staging**
+- **Groovio Pipeline Development**
+- **VPN Setup for Dogpackapp**
+- **Groovio Gunicorn service Optimisation**
 - 
