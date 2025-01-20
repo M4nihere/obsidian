@@ -19,7 +19,7 @@
 - **Groovio Uvicorn Research**
 
 ---
-## January 16, 2025
+## January 17, 2025
 
 ### Tasks Completed
 - **Groovio Celery**
@@ -28,4 +28,12 @@
 - **Conservation Login Issue**
 - **Groovio Celery tasks those are internally hit by django API are not running properly**
 -  **Conservation Login Issue >> Account logged in but client gave a new account that is not what we expected**
+
+---
+## January 20, 2025
+
+### Tasks Completed
+- **Backup Server Crashed 
+- **Groovio Pipeline Staging
+- **Groovio Pipeline Development
 - 
