@@ -38,4 +38,24 @@
 - **Groovio Pipeline Development**
 - **VPN Setup for Dogpackapp**
 - **Groovio Gunicorn service Optimisation**
+
+
+---
+## January 21, 2025
+
+### Tasks Completed
+- **Groovio Pipeline**
+- **Backup**
+- **Groovio New Infra**
+- **Demo Server BCN**
+
+---
+## January 22, 2025
+
+### Tasks Completed
+- **Groovio Chat Down**
+- **Groovio Prod chat Service**
+- **Groovio Celery Fix**
+- **Dogpack Team VPN Issue**
+- **Justivide Staging Deployment (Front & Backend)**
 - 
