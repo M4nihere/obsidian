@@ -58,4 +58,14 @@
 - **Groovio Celery Fix**
 - **Dogpack Team VPN Issue**
 - **Justivide Staging Deployment (Front & Backend)**
+
+---
+## January 23, 2025
+
+### Tasks Completed
+- **Cevaheer Backend Live Code manual pull**
+- **Justivide Project Dev Environment setup in process** ➔ on hold by Manish Dev 
+- **Groovio New Staging ENvironment Setup** ➔[[Groovio New Infra]]
+- **Groovio Staging Issue**  - ➔ CPU Load
+- **VPN Issue for Dogpack Team Issue Resolved**
 - 
