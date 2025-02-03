@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninehertz/Important Scripts/Python Script to fetch groups and project information from the Gitlab.md",
-                "mode": "source",
+                "file": "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python Script to fetch groups and project information from the Gitlab"
+              "title": "Systemd Timer for Debian Based Operating Systems"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ninehertz/Important Scripts/Python Script to fetch groups and project information from the Gitlab.md"
+                "file": "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Python Script to fetch groups and project information from the Gitlab"
+              "title": "Outline of Systemd Timer for Debian Based Operating Systems"
             }
           },
           {
@@ -186,8 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8748897f3f737d4e",
+  "active": "a385fc4b3dbe0f07",
   "lastOpenFiles": [
+    "Ninehertz/Important Scripts/Python Script to fetch groups and project information from the Gitlab.md",
+    "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
+    "Ninehertz/Ubuntu",
     "Ninehertz/Groovio/Groovio New Infra.md",
     "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
     "2024-11-29.md",
@@ -195,7 +198,6 @@
     "The Ninehertz.md",
     "Untitled.md",
     "Untitled 1.md",
-    "Ninehertz/Important Scripts/Python Script to fetch groups and project information from the Gitlab.md",
     "Ninehertz/Important Scripts",
     "Ninehertz/Groovio",
     "Untitled 1",
@@ -220,7 +222,6 @@
     "Untitled/Untitled",
     "EveryDay Note",
     "Untitled Kanban.md",
-    "Tasks",
     "Ninehertx/27-Nov-24/Untitled.canvas",
     "Untitled.canvas",
     "create a link.md",
