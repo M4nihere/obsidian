@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "8785c9bbd680ab2d",
+            "id": "98038882149e58f2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Systemd Timer for Debian Based Operating Systems"
             }
           }
         ],
@@ -203,16 +205,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8785c9bbd680ab2d",
+  "active": "98038882149e58f2",
   "lastOpenFiles": [
     "Ninehertz/Important Scripts/Python Script to fetch groups and project information from the Gitlab.md",
+    "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
+    "The Ninehertz.md",
+    "2024-11-29.md",
+    "2024-12-02.md",
     "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
     "Ninehertz/Ubuntu",
     "Ninehertz/Groovio/Groovio New Infra.md",
-    "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
-    "2024-11-29.md",
-    "2024-12-02.md",
-    "The Ninehertz.md",
     "Untitled.md",
     "Untitled 1.md",
     "Ninehertz/Important Scripts",
