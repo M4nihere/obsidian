@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Systemd Timer for Debian Based Operating Systems"
             }
+          },
+          {
+            "id": "8785c9bbd680ab2d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -41,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -140,7 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md"
+                "file": "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Systemd Timer for Debian Based Operating Systems"
@@ -186,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a385fc4b3dbe0f07",
+  "active": "8785c9bbd680ab2d",
   "lastOpenFiles": [
     "Ninehertz/Important Scripts/Python Script to fetch groups and project information from the Gitlab.md",
     "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
