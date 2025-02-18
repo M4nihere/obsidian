@@ -1,8 +1,9 @@
 {
   "theme": "moonstone",
   "accentColor": "",
-  "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Cabin",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Inter",
   "cssTheme": "",
-  "baseFontSize": 14
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
 }
