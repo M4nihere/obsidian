@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
+                "file": "The Ninehertz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Systemd Timer for Debian Based Operating Systems"
+              "title": "The Ninehertz"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hiferr.md",
+                "file": "The Ninehertz.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hiferr"
+              "title": "Outline of The Ninehertz"
             }
           },
           {
@@ -205,17 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52c835de3267dfcf",
+  "active": "98038882149e58f2",
   "lastOpenFiles": [
+    "2024-12-02.md",
+    "2024-11-29.md",
     "Ninehertz/Ubuntu/Systemd Timer for Debian Based Operating Systems.md",
-    "Hiferr.md",
     "Ninehertz/Important Scripts/Python Script to fetch groups and project information from the Gitlab.md",
+    "Ninehertz/Groovio/Groovio New Infra.md",
+    "Hiferr.md",
     "Ninehertx/27-Nov-24/Web Socket Proxy Configuration for Apache2.md",
     "The Ninehertz.md",
-    "2024-11-29.md",
-    "2024-12-02.md",
     "Ninehertz/Ubuntu",
-    "Ninehertz/Groovio/Groovio New Infra.md",
     "Untitled 1.md",
     "Ninehertz/Important Scripts",
     "Ninehertz/Groovio",
