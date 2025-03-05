@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Infrastructure Overview for Hiferr"
             }
+          },
+          {
+            "id": "6b152910a8dc73f8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,13 +181,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infrastructure Overview for Hiferr.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Infrastructure Overview for Hiferr"
+              "title": "Outline"
             }
           },
           {
@@ -218,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8591bdceeac6a23d",
+  "active": "6b152910a8dc73f8",
   "lastOpenFiles": [
     "The Ninehertz.md",
     "Infrastructure Overview for Hiferr.md",
